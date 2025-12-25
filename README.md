@@ -21,7 +21,7 @@ Assuming you already have **Lovely Injector** and **Steamodded** installed for B
 - Compatible with other deck/skin mods as long as they don’t replace the same cards.
 
 ## Credits
-Thanks to the creator of OFFDeck's mod (nolo33lp) in order for me to figure out how to create my own.
+Thanks to the creator of OFFDeck's mod (nolo33lp) in order for me to performe surgery on it and figuring out how to create my own.
 Created by THE-GABO3429  
 Balatro mod using Steamodded
 
