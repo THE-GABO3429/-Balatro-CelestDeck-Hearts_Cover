@@ -11,6 +11,7 @@ Assuming you already have **Lovely Injector** and **Steamodded** installed for B
 4. It should look something like this...
 (It's showing your lovely, steamodded and this mod all within the **Mods** folder in Balatro)
 <img width="248" height="107" alt="image" src="https://github.com/user-attachments/assets/439160d5-e372-4906-938f-5ee00a4436f6" />
+
 5.Then all you have to do is lauch the game, make sure it's enabled and then change it in "Customize Deck" in the options menu.
 
 
